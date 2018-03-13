@@ -1,3 +1,5 @@
 master f2
 remoteb1
 
+line staged
+line not yet sttafed
